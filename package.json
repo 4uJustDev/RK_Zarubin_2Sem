@@ -1,0 +1,25 @@
+{
+  "name": "rk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "serve": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderZarubin/RK_Zarubin_2Sem.git"
+  },
+  "author": "Zarubin Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderZarubin/RK_Zarubin_2Sem/issues"
+  },
+  "homepage": "https://github.com/AlexanderZarubin/RK_Zarubin_2Sem#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
